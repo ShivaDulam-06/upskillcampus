@@ -108,4 +108,4 @@ High for the LCD and serial log.
 
 ## Author
 
-Alyx — UCT Internship submission.
+Dulam Shiva — UCT Internship submission.
